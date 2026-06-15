@@ -62,7 +62,7 @@
 
 ### 🌐 Portfolio
 
-https://hemanthsai2468.github.io/Hemanth-Sai-Portfolio/
+https://hemanthanisetti.github.io/Hemanth-Sai-Portfolio/
 
 </div>
 
@@ -163,24 +163,6 @@ https://hemanthsai2468.github.io/Hemanth-Sai-Portfolio/
 
 ---
 
-<h3>📊 Data Engineering</h3>
-
-<a href="https://azure.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=azure" />
-</a>
-
-<a href="https://spark.apache.org/">
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</a>
-
-<a href="https://www.databricks.com/">
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## 💼 Professional Experience
 
 ### ServiceNow Administrator Intern
@@ -198,7 +180,8 @@ https://hemanthsai2468.github.io/Hemanth-Sai-Portfolio/
 
 ## 🏆 Certifications
 
-🥇 ServiceNow Certified System Administrator (CSA)
+-ServiceNow Certified System Administrator (CSA)
+
 
 ---
 
@@ -228,7 +211,7 @@ AI-powered customer support automation with conversational workflows and knowled
 
 🔗 Repository
 
-https://github.com/Hemanthsai2468/Soyabean-seed-classification
+https://github.com/Hemanthanisetti/Soyabean-seed-classification
 
 ---
 
@@ -236,7 +219,7 @@ https://github.com/Hemanthsai2468/Soyabean-seed-classification
 
 🔗 Repository
 
-https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
+https://github.com/Hemanthanisetti/phnemonia-detection-using-deep-learning
 
 ---
 
@@ -244,19 +227,7 @@ https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
 
 🔗 Repository
 
-https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
-
----
-
-## 🎯 Current Focus
-
-- ServiceNow Development
-- AI & Machine Learning
-- Data Engineering
-- Databricks
-- Azure
-- Enterprise Automation
-- Open Source Contributions
+https://github.com/Hemanthanisetti/Automated-Health-monitoring-System-With-Alerts
 
 ---
 
